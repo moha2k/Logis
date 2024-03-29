@@ -647,7 +647,7 @@ nav{
     color: rgb(210, 210, 210);
 }
 .section7 .container h4{
-    font-size: 20px;
+     font-size: 20px;`                
 }
 
 .section7 .container .fa-star{
@@ -671,16 +671,15 @@ nav{
     border-radius: 50%;
     width: 10%;
 
-}
-.section8 .container{
+}.section8 .container{
     text-align: center;
 }
 .section8 .container .col button{
-    width: 70%;
+    width: 80%;
     height: 13%;
     padding-left: 10px;
     border: none;
-    font-size: 22px;
+    font-size: 18px;
     text-align: left;
     margin-top: 10px;
 }
@@ -691,10 +690,10 @@ nav{
 .section8 .container .col .prg{ 
     display: none;
     text-align: left;
-    font-size: 20px;
+    font-size: 15px;
     padding-top: 13px;
     background: rgb(240 239 239);
-    margin: 0px 171px;
+    margin: 0px 58px;
     padding-bottom: 30px;
     padding-left: 30px;
     line-height: 23px;
@@ -709,14 +708,7 @@ nav{
 .section8 .container .col:hover .prg{
     display: block;
 }
-.section8 .container .col button .fa-chevron-down{
-    position: absolute;
-    font-weight: lighter;
-    overflow: hidden;
-    right: 246;
-    
 
-}
 .section9{
     background:rgb(13, 13, 56);
     margin-top: 30px;
