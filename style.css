@@ -353,8 +353,8 @@ nav{
     height: 60px;
     padding-top: 14px;
     position: absolute;
-    left: calc(52% - 45px);
-    top: calc(50% - 55px);
+    left: calc(52% - 35px);
+    top: calc(50% - 44px);
     overflow: hidden;
     background: radial-gradient(blue 50%,rgba(41, 41, 227, 0.63) 55%);
 }
